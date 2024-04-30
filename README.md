@@ -15,7 +15,6 @@ Main Window lets the admin do various types of actions on Foods, Drinks and Orde
 ### Food Management
 
 - **View All Foods**: Displays a comprehensive list of all registered foods.
-  ![4](https://github.com/anlbora/restaurantManagement/assets/100442507/8b4537d7-da12-4f05-bc18-178e64671c68)
 - **Add Foods**: Enables the addition of new foods.
 - **Update Foods**: Allows modification of existing food information.
 - **Delete Foods**: Facilitates the removal of food.
@@ -30,7 +29,6 @@ Main Window lets the admin do various types of actions on Foods, Drinks and Orde
 ### Order Management
 
 - **View All Orders**: Displays a table containing information on all orders in the database.
-  ![3](https://github.com/anlbora/restaurantManagement/assets/100442507/13d38ec6-cada-4960-8839-a527fabb4c7d)
 - **Add Orders**: Facilitates the addition of new order entries.
   
 ## Requirements

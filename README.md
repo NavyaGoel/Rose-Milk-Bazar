@@ -1,4 +1,4 @@
-# Movie Management Program
+# Rose Milk Bazar
 
 ## Overview
 
@@ -39,16 +39,7 @@ Main Window lets the admin do various types of actions on Foods, Drinks and Orde
 - PyQt5
 - SQLite3
 
-## Installation
 
-1. Clone the repository:
-  - git clone https://github.com/yourusername/restaurantManagement.git
-2. Navigate to the project directory:
-  - cd restaurantManagement
-3. Install the required dependencies:
-  - pip install -r requirements.txt
-4. Run the application:
-  - python main.py
 
 
 ## Usage
